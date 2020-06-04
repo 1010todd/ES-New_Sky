@@ -1,0 +1,15 @@
+Version: 0.0.3-B (30/02/2020)
+New sprite for a few ships.
+
+Version: 0.0.2-B (18/03/2020)
+Rebalanced Zorcn weapons, Renamed a few outfits name that were too long. (Etkan AM, Zorcn cooling systems)
+Added more inhabited planet within Zorcn & Nuru space.
+Added a fraction of a new alien space. (No one there yet)
+Added a few new Zorcn weapons and engine series.
+Price for some basic commodity within the new space to allow some trading.
+Sprite update for some Zorcn ship. (Along with @2x version)
+[Expect more expansion on the Zorcn as my goal is to make them one of the most diverse specie, perhaps second only to human.]
+
+Version: 0.0.1-B 
+First beta release; 2 Alien, Zorcn and Nuru
+
